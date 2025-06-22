@@ -1,7 +1,14 @@
-# Amazon_clone
-This is a Amazon App Clone with multiple functionalities like User authentication (Sign in or Login) using Firebase, Add to cart products , Payment Gateway using Stripe , Shows your order history using database in firebase and it is made using Reactjs.
+# 🛒 Amazon Clone - E-Commerce App
+A full-featured **Amazon Clone** built with **ReactJS**, offering a real-world e-commerce experience with:
 
-Demo Images : 
+- 🔐 Firebase Authentication
+- 🛍️ Cart Management
+- 💳 Stripe Payment Integration
+- 📦 Order History with Firestore
+- 📁 Firebase Functions for secure backend logic
+
+🚀Demo Images : 
+
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/93420193/174482888-76bf5199-5d96-478d-8bd7-3a251a070246.png">
 
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/93420193/174482892-011ef7c9-6b06-4e77-8fb2-1aeec42fd685.png">
